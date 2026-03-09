@@ -21,7 +21,7 @@ A soap dish in the shape of a book!
 
 # Bill of Materials & Assembly
 
-- (See Notes below)
+- (See Additional Information below)
 
 # Additional Information
 
