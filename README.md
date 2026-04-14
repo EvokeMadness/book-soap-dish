@@ -1,4 +1,4 @@
-# Book Soap Dish
+# Book-Shaped Soap Dish
 
 - Download from Printables here: [`Download Link`](https://www.printables.com/model/1631224-book-soap-dish)
 - Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7311305)
@@ -27,7 +27,7 @@ A soap dish in the shape of a book!
 
 - **Notes**
     - Assembly is optional. If you choose to fasten the cover to the back part, you will need four M2 screws.
-    - You can add rubber feet to the back part by adhering self adhesive bumpers to the four recessed slots on the bottom.
+    - You can add rubber feet to the back part by adhering self-adhesive bumpers to the four recessed slots on the bottom.
 - **Optional**
     - You can use the embossed text in the 3MF file to customize the book's title on the spine.
 
