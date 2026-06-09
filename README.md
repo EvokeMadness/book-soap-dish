@@ -3,15 +3,11 @@
 - Download from Printables here: [`Download Link`](https://www.printables.com/model/1631224-book-soap-dish)
 - Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7311305)
 
-## Summary
-
-A soap dish in the shape of a book!
-
 * * *
 
 # Summary
 
-A soap dish in the shape of a book!
+### A soap dish in the shape of a book!
 
 # Print Settings
 
