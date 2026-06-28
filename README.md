@@ -9,6 +9,9 @@
 
 ### A soap dish in the shape of a book!
 
+- **Change History:**
+	- **06/28/2026:** Updated model for printability
+
 # Print Settings
 
 - Supports: None
